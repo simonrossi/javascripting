@@ -14,3 +14,5 @@
 
  //  javascripting verify revising-strings.js
 
+var pizza = 'pizza is alright'
+console.log(pizza.replace('alright', 'wonderful'));
