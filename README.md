@@ -1,4 +1,4 @@
-Templates for solutions to [nodeschool.io javascripting](https://nodeschool.io/)
+Solutions for [nodeschool.io javascripting](https://nodeschool.io/)
 ##Instructions
 * Fork this repository
 * Log into a Raspberry Pi or the server and clone and cd into directory
@@ -20,5 +20,5 @@ git push
 * Try each problem by just following the directions
 * Only if stuck should you ask for hints
 * Only if still stuck should you ask to peek at a solution
-* Study another's solution only if glancing at it does not answer your question
-* Remember, this is a class to learn software development not typing
+* Study a another's solution only if glancing at it does not answer your question
+* Remember, this is a software development class, not a typing class
